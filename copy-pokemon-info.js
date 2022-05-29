@@ -5,8 +5,8 @@
 // @version     1.0
 // @author      s0hv
 // @description Add button to battle tower pokemon that allows you to copy-paste their information to https://calc.pokemonshowdown.com/index.html
-// @updateURL https://raw.githubusercontent.com/s0hv/serebii-copy-pokemon-info/new/master/copy-pokemon-info.js
-// @downloadURL https://raw.githubusercontent.com/s0hv/serebii-copy-pokemon-info/new/master/copy-pokemon-info.js
+// @updateURL https://raw.githubusercontent.com/s0hv/serebii-copy-pokemon-info/master/copy-pokemon-info.js
+// @downloadURL https://raw.githubusercontent.com/s0hv/serebii-copy-pokemon-info/master/copy-pokemon-info.js
 // @home https://github.com/s0hv/serebii-copy-pokemon-info
 // @license MIT
 // @grant GM_setClipboard
