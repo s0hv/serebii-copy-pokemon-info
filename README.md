@@ -1,7 +1,7 @@
 # Copy Pokémon info
 A userscript to make copying info from serebii.net to https://calc.pokemonshowdown.com/index.html easier.
 It does it by adding a simple copy button (📋) below each Pokémon which when clicked 
-copies it's information in a suitable format to your clipboard. Only works for BDSP battle tower at the moment due to me using more strict url matching.
+copies it's information in a suitable format to your clipboard. Only works for BDSP battle tower at the moment.
 
 # Installation
 
